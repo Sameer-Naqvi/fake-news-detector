@@ -1,4 +1,4 @@
-Fake News Detection
+<h1> Fake News Detection <h1></h1>
 This repository contains a Python script for detecting fake news using a Support Vector Machine (SVM) classifier. The model is trained on a dataset of news articles and predicts whether a given article is real or fake.
 
 Overview
